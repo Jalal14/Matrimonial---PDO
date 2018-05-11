@@ -1,0 +1,9 @@
+.info{
+	font-size: 50px;
+	background-color: yellow;
+}
+
+#conversation{
+    height: 650px;
+    overflow-y: scroll;
+}
